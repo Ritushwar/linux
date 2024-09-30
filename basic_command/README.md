@@ -4,8 +4,8 @@ man command_name: to know more about the command in terminal
 
 1) pwd command: present working directory
 
-2) cd command: change directory
-    • cd directory_name: goes inside the directory
+2) cd command: change directory <br>
+    • cd directory_name: goes inside the directory <br>
     • cd .. : get outside the directory
     • cd / : root directory
     • cd ~ : home directory
