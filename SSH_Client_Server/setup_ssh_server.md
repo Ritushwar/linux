@@ -45,3 +45,7 @@ In the Active it should show `Active: active(running)`
      ifconfig
 
 Now we can connect using the ip address, username and password in your android phone.
+
+For stop the ssh
+
+      sudo systemctl stop ssh
